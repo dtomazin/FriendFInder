@@ -1,0 +1,23 @@
+h1.header{
+    color:red; 
+    font-size: 100px; 
+    font-family: 'Arimo', sans-serif;
+}
+
+body {
+    background-image: url(https://images.onepixel.com/7bf5fa1b-1a35-2d87-d3f2-43aed89bb037_1000.jpg?auto=format&q=55&mark=watermark%2Fcenter-v5.png&markalign=center%2Cmiddle&h=364&markalpha=20&s=ae1e071c9e5bdb8d06999043a301a5ef);
+    backface-visibility: initial; 
+    background-size: 100%; 
+    position: relative; 
+    font-family: 'Arimo', sans-serif;
+    
+
+}
+
+.jumbotron {
+    background-size: 50%; 
+}
+
+#submit {
+    margin-top:50%;
+}
